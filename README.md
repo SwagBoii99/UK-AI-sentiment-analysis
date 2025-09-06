@@ -22,7 +22,7 @@ The analysis of nearly 1,000 Reddit posts revealed several key insights:
 
 ## 🚀 Live Demo
 
-[Link to your live Streamlit App will go here once deployed]
+(https://uk-ai-sentiment-analysis.streamlit.app/)
 
 ## 📸 Screenshot
 
