@@ -24,6 +24,4 @@ The analysis of nearly 1,000 Reddit posts revealed several key insights:
 
 (https://uk-ai-sentiment-analysis.streamlit.app/)
 
-## 📸 Screenshot
 
-![Dashboard Screenshot](<URL_of_your_screenshot_will_go_here>)
